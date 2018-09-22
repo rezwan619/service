@@ -1,0 +1,201 @@
+#home-section{
+    background: url('../img/people-office-group-team.jpg') no-repeat center top fixed;
+    background-size:cover;
+    min-height: 600px;}
+
+#home-section .overlay{
+        background-color: rgba(15, 137, 167, 0.76);
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        min-height: 600px;
+    }
+
+#home-section .fa{
+    color: aqua;
+}
+
+#home-section .er{
+    font-size: 30px;
+}
+
+#home-section .c2{
+    margin-top: 13%;
+}
+.clear {
+    clear: both;
+}
+#info .card-text ul{
+    list-style: none;
+    line-height: 35px;
+}
+
+#info .ww{
+    background-color: rgb(242, 250, 80);
+}
+
+#info .wwe{
+    background-color: rgba(15, 137, 167, 0.76);
+}
+
+#info .wwf{
+    background-color: rgba(230, 30, 30, 0.81);
+}
+
+
+#info .pic1 {
+    width:85%;
+    height: 105%;
+}
+
+
+#info .qaz {
+    font-size: 13px;
+}
+
+#started .gtx{
+    border-bottom: 1px solid #85C1E9;
+    padding-bottom: 10px;
+}
+
+#started .qaz {
+    font-size: 13px;
+}
+
+
+#started .pic2 {
+    width:85%;
+    height: 105%;   
+}
+#about .pops {
+    margin-left: 13px;
+}
+#about .lkl {
+    margin-left: -15px;
+}
+#about .icon1{
+    background-color: rgba(247, 241, 73, 0.98);
+    color: rgba(15, 137, 167, 0.76);
+}
+#about .fa-cog {
+    width: 100px;
+    text-align: center;
+    padding-right: 5%
+}
+
+#about .qp {
+     font-size: 13px;
+}
+
+#members {
+    background-color: rgba(15, 137, 167, 0.76);
+}
+
+#members .t {
+    color: white;
+}
+
+#members .card1 {
+    background-color: rgba(15, 137, 167, 0.76);
+}
+
+#members .t:hover {
+    color: rgba(63, 61, 2, 0.94);
+}
+
+
+#members .card:hover {
+    background-color: rgba(247, 241, 73, 0.98);
+    color: rgba(63, 61, 2, 0.94);
+}
+
+.sticky-top a:hover {
+    text-decoration: none;
+}
+
+.fa-facebook {
+    color: rgba(54, 128, 226, 0.79);
+}
+
+.fa-facebook:hover {
+    color: white;
+    background-color: rgba(54, 128, 226, 0.79);
+    border-radius: 10%;
+}
+
+.fa-twitter {
+    color: rgba(39, 227, 241, 0.79);
+}
+
+.fa-twitter:hover {
+    color: white;
+    background-color: rgba(39, 227, 241, 0.79);
+    border-radius: 50%;
+}
+
+.fa-snapchat-ghost {
+    color: rgba(247, 241, 73, 0.98);
+}
+
+.fa-snapchat-ghost:hover{
+    color: white;
+    background-color: rgba(247, 241, 73, 0.98);
+}
+
+.fa-whatsapp {
+    color: rgba(54, 226, 65, 0.86);
+}
+
+.fa-whatsapp:hover {
+    color: white;
+    background-color: rgba(54, 226, 65, 0.86);
+    border-radius: 50%;
+}
+
+
+#subscribe {
+     background-color: rgba(247, 241, 73, 0.98);
+}
+
+#subscribe .sw {
+    background-color: rgba(15, 137, 167, 0.76);
+    box-shadow: 4px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+#subscribe .sw:hover {
+    background-color: rgba(38, 12, 12, 0.93);
+    color: rgba(15, 137, 167, 0.76);
+    transition-duration: .5s;
+}
+
+#subscribe .poi {
+    color: rgba(15, 137, 167, 0.76);
+}
+
+.form-control.round {
+    border-radius: 20px;
+}
+
+#main-footer {
+    background-color: rgba(15, 137, 167, 0.76);   
+}
+
+
+#main-footer .icon2 {
+    color: rgba(247, 241, 73, 0.98);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
